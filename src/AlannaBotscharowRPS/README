@@ -1,0 +1,5 @@
+This program is  rock, paper, scissors game. 
+You enter a number from 0 to 3 into the console. 
+Rock = 0, Paper = 1, Scissors = 3.
+The computer randomly generates a number that represents rock, paper, or scissors for itself. 
+It then displays if you win, lose, or draw with the computer. 

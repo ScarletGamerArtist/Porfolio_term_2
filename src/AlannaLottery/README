@@ -1,0 +1,6 @@
+This program is a lottery game. It takes a number from a user and compares it to a randomly generated number. 
+If you get an exact match, you win $10,000. 
+If you match all digits, you win $3,000.
+If you match one digit, you win $1,000. 
+If you don't match anything, you don't win anything. 
+DISCLAIMER: You don't actually win money from this, it is just for fun. 

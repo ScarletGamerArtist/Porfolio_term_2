@@ -1,0 +1,5 @@
+This program is a heads or tails game. 
+The computer randomly generates a number between 0 to 1 that represents heads or tails. 
+The user inputs a number between 0 - 1 for their guess. 
+Heads = 0 and Tails = 1. 
+The computer then displays if you guessed right or not. 
