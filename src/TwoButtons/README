@@ -1,0 +1,4 @@
+This program opens up a window that has two buttons on it. Each of the buttons has the name of a color.
+One says "red" and the other says "green."
+When you click the red button, the background of the window changes red. When you click the green button,
+the background of the window turns green. It's a simple but rather cool program. 

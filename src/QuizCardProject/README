@@ -1,0 +1,5 @@
+This program uses three different classes. With the quizCardBuilder, you can create flash cards that each 
+contain a question and an answer to that question. The window that the program runs in also has a file 
+menu, so you can save, load, and get a new card. 
+Once you save the cards that you have made in the quizCardBuilder, you can open them up in the 
+QuizCardPlayer. Here you can see the cards and the answers to the cards using a "Show Answer" button. 
